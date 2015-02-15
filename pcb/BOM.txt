@@ -1,0 +1,35 @@
+Partlist exported from /Users/kina/Documents/eagle/TV-B-Gone-kit/pcb/tvbgone3.sch at 2/15/15 9:57 AM
+
+Part Value                     Device                    Package            Description                                                                             
+C1   0.1uF                     0.1UF-25V-5%(0603)        0603-CAP           CAP-08604                                                                               
+C2   100uF                     CAP_POLC                  PANASONIC_C        Capacitor Polarized                                                                     
+C4   4.7uF                     0.22UF50V-20%,+80%(0603)  0603-CAP           CAP-09885                                                                               
+C5   0.1uF                     0.22UF50V-20%,+80%(0603)  0603-CAP           CAP-09885                                                                               
+D1   BLUE                      LED-BLUE0603              LED-0603           Blue LEDs for production use                                                            
+ICSP                           M03X2SMT                  2X3_SMT_POSTS      2x3 .1" header.                                                                         
+J1                             JST_2MM_MALE              JST-2-SMD          Mates to single-cell LiPo batteries.                                                    
+JP1  LED4                      M02PTH3                   1X02_LONGPADS      Standard 2-pin 0.1" header. Use with                                                    
+JP2  LED3                      M02PTH3                   1X02_LONGPADS      Standard 2-pin 0.1" header. Use with                                                    
+JP3  LED2                      M02PTH3                   1X02_LONGPADS      Standard 2-pin 0.1" header. Use with                                                    
+JP4  LED1                      M02PTH3                   1X02_LONGPADS      Standard 2-pin 0.1" header. Use with                                                    
+JP5  BTTN                      M02PTH3                   1X02_LONGPADS      Standard 2-pin 0.1" header. Use with                                                    
+JP6                            M03SMD_RA_MALE            1X03_SMD_RA_MALE   Header 3                                                                                
+LED5 RED                       LED0603                   LED-0603           LEDs                                                                                    
+Q1   MMBT5088                  TRANSISTOR_NPNMMBT5088    SOT23              Generic NPN BJT                                                                         
+Q2   MMBT5088                  TRANSISTOR_NPNMMBT5088    SOT23              Generic NPN BJT                                                                         
+Q3   MMBT5088                  TRANSISTOR_NPNMMBT5088    SOT23              Generic NPN BJT                                                                         
+Q4   MMBT5088                  TRANSISTOR_NPNMMBT5088    SOT23              Generic NPN BJT                                                                         
+Q5   MMBT4403                  TRANSISTOR_PNPMMBT4403    SOT23              Generic PNP BJT                                                                         
+Q6   MOSFET-NCHANNELBSS123LT1G MOSFET-NCHANNELBSS123LT1G SOT23              Common NMOSFET Parts                                                                    
+Q7   MOSFET-NCHANNELBSS123LT1G MOSFET-NCHANNELBSS123LT1G SOT23              Common NMOSFET Parts                                                                    
+R1   1K                        2MOHMS-1/10W-1%(0603)     0603-RES           RES-10054                                                                               
+R2   10k(opt)                  2MOHMS-1/10W-1%(0603)     0603-RES           RES-10054                                                                               
+R3   1k                        3.3MOHM-1/10W-1%(0603)    0603-RES           RES-11057                                                                               
+R4   2K                        3.3MOHM-1/10W-1%(0603)    0603-RES           RES-11057                                                                               
+R5   1k                        2MOHMS-1/10W-1%(0603)     0603-RES           RES-10054                                                                               
+R6   1K                        3.3MOHM-1/10W-1%(0603)    0603-RES           RES-11057                                                                               
+U$1  CTSCE8M_00G52             CTSCE8M_00G52             CSTCE                                                                                                      
+U$2  USB-MINIB-5PIN            USB-MINIB-5PIN            USB-MINIB          Mini-USB "B" connector with 5th pin broken out.                                         
+U1   ATTINY85V-10SU            ATTINY85V-10SU            SOIC127P798X216-8N 8-bit Microcontroller with In-System Programmable Flash                                 
+U2                             S-8241                    SOT23-5L           Seiko S-8241                                                                            
+U3   MCP73831                  MCP73831                  SOT23-5            Miniature single cell, fully integrated Li-Ion, Li-polymer charge management controller 

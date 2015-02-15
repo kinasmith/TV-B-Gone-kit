@@ -3939,7 +3939,7 @@ IC-09995</description>
 <part name="C2" library="SparkFun-Capacitors" deviceset="CAP_POL" device="C" value="100uF"/>
 <part name="LED5" library="SparkFun-LED" deviceset="LED" device="0603" value="RED"/>
 <part name="P+6" library="supply1" deviceset="VCC" device=""/>
-<part name="R5" library="SparkFun-Resistors" deviceset="2MOHMS-1/10W-1%(0603)" device="" value="2.0M"/>
+<part name="R5" library="SparkFun-Resistors" deviceset="2MOHMS-1/10W-1%(0603)" device="" value="1k"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="P+7" library="supply1" deviceset="VCC" device=""/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
@@ -3952,8 +3952,8 @@ IC-09995</description>
 <part name="ICSP" library="SparkFun-Connectors" deviceset="M03X2" device="SMT"/>
 <part name="P+9" library="supply1" deviceset="VCC" device=""/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
-<part name="R2" library="SparkFun-Resistors" deviceset="2MOHMS-1/10W-1%(0603)" device="" value="2.0M"/>
-<part name="R1" library="SparkFun-Resistors" deviceset="2MOHMS-1/10W-1%(0603)" device="" value="2.0M"/>
+<part name="R2" library="SparkFun-Resistors" deviceset="2MOHMS-1/10W-1%(0603)" device="" value="10k(opt)"/>
+<part name="R1" library="SparkFun-Resistors" deviceset="2MOHMS-1/10W-1%(0603)" device="" value="1K"/>
 <part name="P+10" library="supply1" deviceset="VCC" device=""/>
 <part name="Q5" library="SparkFun-DiscreteSemi" deviceset="TRANSISTOR_PNP" device="MMBT4403" value="MMBT4403"/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
@@ -3968,14 +3968,14 @@ IC-09995</description>
 <part name="U2" library="electric_imp" deviceset="S-8241" device=""/>
 <part name="U3" library="electric_imp" deviceset="MCP73831" device=""/>
 <part name="U$2" library="SparkFun-Connectors" deviceset="USB-MINIB" device="-5PIN"/>
-<part name="R3" library="SparkFun-Resistors" deviceset="3.3MOHM-1/10W-1%(0603)" device=""/>
+<part name="R3" library="SparkFun-Resistors" deviceset="3.3MOHM-1/10W-1%(0603)" device="" value="1k"/>
 <part name="D1" library="SparkFun-LED" deviceset="LED-BLUE" device="0603" value="BLUE"/>
 <part name="Q6" library="electric_imp" deviceset="MOSFET-NCHANNEL" device="BSS123LT1G"/>
-<part name="C4" library="SparkFun-Capacitors" deviceset="0.22UF50V-20%,+80%(0603)" device="" value="0.22uF"/>
-<part name="R4" library="SparkFun-Resistors" deviceset="3.3MOHM-1/10W-1%(0603)" device=""/>
-<part name="C5" library="SparkFun-Capacitors" deviceset="0.22UF50V-20%,+80%(0603)" device="" value="0.22uF"/>
+<part name="C4" library="SparkFun-Capacitors" deviceset="0.22UF50V-20%,+80%(0603)" device="" value="4.7uF"/>
+<part name="R4" library="SparkFun-Resistors" deviceset="3.3MOHM-1/10W-1%(0603)" device="" value="2K"/>
+<part name="C5" library="SparkFun-Capacitors" deviceset="0.22UF50V-20%,+80%(0603)" device="" value="0.1uF"/>
 <part name="Q7" library="electric_imp" deviceset="MOSFET-NCHANNEL" device="BSS123LT1G"/>
-<part name="R6" library="SparkFun-Resistors" deviceset="3.3MOHM-1/10W-1%(0603)" device=""/>
+<part name="R6" library="SparkFun-Resistors" deviceset="3.3MOHM-1/10W-1%(0603)" device="" value="1K"/>
 <part name="JP6" library="SparkFun-Connectors" deviceset="M03" device="SMD_RA_MALE"/>
 </parts>
 <sheets>
